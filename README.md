@@ -2,7 +2,7 @@
 
 A sleek and interactive web application for multilingual question answering, built using **Streamlit** and **Transformers**. This tool allows users to input context and questions in multiple languages and receive accurate answers using a fine-tuned QA model.
 
-![globe](https://github.com/faizaanCPP09/NLP-QA-Model.git)
+[🔗](https://github.com/faizaanCPP09/NLP-QA-Model.git)
 
 ---
 
@@ -11,7 +11,6 @@ A sleek and interactive web application for multilingual question answering, bui
 - 🧠 **Transformer-based QA model** (Hugging Face compatible)
 - 🌐 **Multilingual support** (e.g., English, French, Hindi)
 - ⚡ Real-time context-question inference
-- 🎨 Elegant, interview-ready UI with Lottie animations
 - 📦 Easy deployment via Streamlit Cloud or locally
 
 ---
@@ -19,11 +18,11 @@ A sleek and interactive web application for multilingual question answering, bui
 
 ## 🧩 Tech Stack
 
-| Layer        | Tools / Frameworks       |
+| Layer        | Tools / Frameworks        |
 |--------------|---------------------------|
-| Frontend     | Streamlit, Lottie         |
+| Frontend     | Streamlit                 |
 | Backend      | Transformers, PyTorch     |
-| Animation    | Lottie JSON (custom globe)|
+| Animation    | JSON (custom globe)|
 | Deployment   | Streamlit Cloud / Local   |
 
 ---
