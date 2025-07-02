@@ -15,7 +15,7 @@ st.set_page_config(page_title="Multilingual QA", layout="centered")
 
 # Header with static emoji and styled text
 st.markdown("""
-    <h1 style='text-align: center; color: #3399ff;'>🌐 Multilingual Question Answering</h1>
+    <h1 style='text-align: center; color: #3399ff;'>🌍 Multilingual Question Answering BERT</h1>
     <p style='text-align: center; font-size: 18px;'>Ask questions in any language — just give the context. Let the model do the thinking!</p>
 """, unsafe_allow_html=True)
 

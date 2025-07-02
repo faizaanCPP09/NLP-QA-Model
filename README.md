@@ -2,7 +2,7 @@
 
 A sleek and interactive web application for multilingual question answering, built using **Streamlit** and **Transformers**. This tool allows users to input context and questions in multiple languages and receive accurate answers using a fine-tuned QA model.
 
-[🔗](https://github.com/faizaanCPP09/NLP-QA-Model.git)
+🔗 https://github.com/faizaanCPP09/NLP-QA-Model.git
 
 ---
 
@@ -15,14 +15,13 @@ A sleek and interactive web application for multilingual question answering, bui
 
 ---
 
-
 ## 🧩 Tech Stack
 
 | Layer        | Tools / Frameworks        |
 |--------------|---------------------------|
 | Frontend     | Streamlit                 |
 | Backend      | Transformers, PyTorch     |
-| Animation    | JSON (custom globe)|
+| Animation    | JSON (custom globe)       |
 | Deployment   | Streamlit Cloud / Local   |
 
 ---
